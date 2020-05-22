@@ -16,7 +16,16 @@ Bundesliga
 Peacock
 
 Apps
-Charlie and Ken
+Charlie Sandel and Ken Morse
 Discovery, voice, auth
 
-Metrological - HTML, Lightnig bought by Comcast.
+Metrological - HTML, Lightning/WebGL bought by Comcast.
+Better browser - all DTH platfrms
+Apps independent
+Disney+
+Roku
+PlayWorks - games
+ROXi karaoke subscriptions
+Vevo - first Lightning app
+FiiT
+App partners
