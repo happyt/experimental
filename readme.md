@@ -16,7 +16,7 @@ Bundesliga
 Peacock
 
 Apps
-Charlie Sandel and Ken Morse
+Charlie and Ken
 Discovery, voice, auth
 
 Metrological - HTML, Lightning/WebGL bought by Comcast.
