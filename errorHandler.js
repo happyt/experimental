@@ -24,3 +24,5 @@ class MyErrorBoundary extends Component {
     componentDidCatch() {
 
     }
+
+    //

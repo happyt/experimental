@@ -46,7 +46,7 @@ export const Template = ({ id, tProps }: TData) => {
         return <Message warning><p>No such Modal type : {tProps.Style} </p></Message>;
     }
   }
-
+//
   return (
     <Card raised className={tProps.Style} id={tProps.id} onDoubleClick={openModal}>
       <Card.Content>

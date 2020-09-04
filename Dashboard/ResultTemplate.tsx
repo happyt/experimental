@@ -16,7 +16,7 @@ const getImageSize = (Size: string) => {
       return 'small-img';
   }
 };
-
+//
 export const ResultTemplate = ({ tProps}: TData) => {
 
 console.log("tData: ", {tProps})

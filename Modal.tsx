@@ -5,7 +5,7 @@ import { Button, Header, Image, Modal, Form, TextArea } from 'semantic-ui-react'
 export const MapModal = ({tModalData, openState, update}:any) => {
 
 // console.log("tModalData: ", {tModalData})
-
+//
 const [open, setOpen] = useState(openState)
 const [values, setValues] = useState({
     title: { Title } = tModalData,
